@@ -1,0 +1,104 @@
+/*[Imports]*/
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+body {
+   /* background-image: url(https://images.all-free-download.com/images/graphicthumb/starry_night_192398.jpg);*/
+background: #23283D; 
+}
+#titleText {
+  color:#43B581;
+  font-family: 'Courgette', cursive;
+  text-align:center;
+  padding:20px;
+  margin:0 auto;
+  position:relative;
+  width:760px;
+  top:50px;
+  font-size: 35px;
+}
+#subTitleText, #githubStatsText {
+  color:#7289DA;
+  font-family: 'Courgette', cursive;
+  text-align:center;
+  padding:20px;
+  margin:0 auto;
+  position:relative;
+  width:760px;
+  font-size: 30px;
+  top: 5px;
+}
+#typingText {
+  color:#7289DA;
+padding:20px;
+  margin:0 auto;
+  position:relative;
+  width:760px;
+  font-size: 30px;
+  top: 5px;
+  left: 385px;
+  
+}
+#langTools, #projects {
+  color:#7289DA;
+  font-family: 'Courgette', cursive;
+  text-align:center;
+  padding:20px;
+  margin:0 auto;
+  position:relative;
+  width:760px;
+  font-size: 30px;
+  top: 5px;
+}
+#csharp, #css3, #html5, #github, #js, #dnSpy, #vsCode, #vS{
+  height: 40px;
+  width: 40px;
+}
+#githubRedirect, #youTubeRedirect{
+  height: 75px;
+  width: 75px;
+  left: 350;
+}
+.headerImages{
+  text-align:center;
+}
+
+#recte, #kh, #gg{
+  bottom: 5px;
+}
+
+#recteDesc, #khDesc, #ggDesc{
+  font-size: 20px;
+  margin-left:0;
+}
+footer a:active,
+.footer a:hover {
+    color: #4b5664
+}
+
+footer{
+  display: block
+}
+
+.footer {
+   
+    padding: 10px 0;
+    margin-top: 100px;
+    text-align: center;
+    color: #fff
+}
+
+.footer{
+    color: red
+}
+
+.footer{
+    text-decoration: none;
+    margin: 0;
+    color: #fff
+}
+#recteRedirect, #ggRedirect{
+  font-size: 15px;
+}
+
+
